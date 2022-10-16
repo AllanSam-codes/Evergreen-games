@@ -1,0 +1,41 @@
+.App {
+  font-family: cursive;
+  text-align: left;
+  width: 600px;
+  margin: auto;
+  padding: 1rem;
+}
+
+body {
+  background-color: darkmagenta;
+  color: ghostwhite;
+}
+button {
+  background-color: floralwhite;
+  color: crimson;
+  border-radius: 1rem;
+  border: 1px solid brown;
+  padding: 0.5em 0.5em;
+  width: 16%;
+  margin: 10px 5px 5px 5px;
+  font-size: x-large;
+  cursor: pointer;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  margin: 0 auto;
+}
+
+.section {
+  background-color: floralwhite;
+  color: crimson;
+  border-bottom-left-radius: 0.5em;
+  border: 1px solid brown;
+  list-style: none;
+  padding: 0.5em;
+  margin: 10px 5px 10px 5px;
+  width: 30%;
+  text-align: left;
+}
